@@ -1,0 +1,7 @@
+Command line:
+"C:\go-ipfs\ipfs.exe" add -r "C:\Projects\art_basel_miami\nft-poster\image_generation\poster_preview_images" > "C:\Projects\art_basel_miami\nft-poster\image_generation\00-ipfs-output.txt"
+
+What is this doing?
+it points to an ipfs exe
+"add -r" the folder you want to add to ipfs
+output a text file with all of the info (this will need to be edited later)
